@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zyfone
-- 👀 I’m interested in object detection
-- 🌱 I’m currently learning VGG
+- 👀 I’m interested in objection detection
+- 🌱 I’m currently learning objection detection
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me qq478756030
 

@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning objection detection
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me qq478756030
--cuda测试代码
+
+##cuda测试代码
 
 import torch
 print(torch.cuda.is_available())

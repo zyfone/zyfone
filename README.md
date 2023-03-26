@@ -9,7 +9,7 @@
  
  Welcome To Here
  
- I'm a 2nd year master's student now
+
  
  Main research on  Transfer Learning , Domain Adaptation and Object Detection
 

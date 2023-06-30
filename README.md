@@ -11,6 +11,6 @@
  
 
  
- Main research on  Transfer Learning , Domain Adaptation ，Medical image processing of imperfect data and Object Detection
+ Main research on  Transfer Learning, Domain Adaptation, Medical image processing of imperfect data and Object Detection.
 
 

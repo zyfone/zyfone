@@ -6,6 +6,6 @@
  
 
  
-Research Interests：Domain Adaptation, Imperfect Medical Data and Optimal Transport.
+Research Interests：Domain Adaptation, Imperfect Data and Optimal Transport.
 
 

@@ -6,6 +6,6 @@
  
 
  
-Research Interests：Domain Adaptation, Imperfect Data and Object Detection.
+Research Interests：Domain Adaptation, Imperfect Data and 3D Visual Perception.
 
 

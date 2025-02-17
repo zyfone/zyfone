@@ -6,6 +6,6 @@
  
 
  
-Research Interests：Domain Adaptation, Imperfect Data and 3D Visual Perception.
+Research Interests：Trustworthy Machine Learning, Transfer Learning and 3D Visual Perception.
 
 

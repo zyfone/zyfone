@@ -4,6 +4,6 @@ HI！
  
 Welcome To Here
  
-Research Interests：Trustworthy ML, Transfer Learning and 3D Visual Perception.
+Research Interests：Trustworthy ML, Transfer Learning, Data-centric AI and 3D Visual Perception.
 
 

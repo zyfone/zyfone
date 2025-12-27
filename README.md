@@ -4,5 +4,5 @@ HI！
  
 Welcome To Here
  
-Research Interests: Trustworthy ML, Robot Learning, 3D Visual Perception. 
+Research Interests: Trustworthy ML, Data Centric AI, 3D Visual Perception. 
 
